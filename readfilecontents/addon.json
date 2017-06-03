@@ -1,0 +1,13 @@
+{
+	"author": "TJ Draper",
+	"authorUrl": "https://buzzingpixel.com",
+	"bugs": "https://github.com/buzzingpixel/readfilecontents-ee/issues",
+	"description": "Read file contents",
+	"docsUrl": "",
+	"homepage": "",
+	"label": "Read File Contents",
+	"name": "readfilecontents",
+	"namespace": "BuzzingPixel\\ReadFileContents",
+	"settingsExist": false,
+	"version": "0.0.1"
+}
